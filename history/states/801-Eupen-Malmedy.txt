@@ -1,0 +1,26 @@
+
+state={
+	id=801
+	name="STATE_801"
+	manpower = 3381300
+	
+	state_category = large_city
+
+	history={
+		owner = RHI
+		victory_points = {
+			3488 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = WAL
+		add_core_of = RHI
+	}
+
+	provinces={
+		3488 
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=798
+	name="STATE_798" # Verdun
+	manpower = 1370800
+	
+	state_category = city
+
+	history={
+		owner = RHI
+		victory_points = {
+			5291 5 
+		}
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 6
+		}
+		add_core_of = RHI
+	}
+
+	provinces={
+		5291 
+	}
+}

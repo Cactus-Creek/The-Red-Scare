@@ -1,0 +1,33 @@
+
+state={
+	id=797
+	name="STATE_797" # Nancy
+	manpower = 1517500
+	
+	state_category = city
+	
+	resources={
+		steel=28 # was: 48
+	}
+
+	history={
+		owner = RHI
+		victory_points = {
+			9642 5 
+		}
+		victory_points = {
+			11516 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = RHI
+		add_core_of = FRA
+	}
+
+	provinces={
+		521 11516 
+	}
+}
