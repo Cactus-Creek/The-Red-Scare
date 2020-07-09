@@ -1,12 +1,15 @@
 
 state={
-	id=57
-	name="STATE_57"
+	id=804
+	name="STATE_804"
 	manpower = 5109333
 	state_category = large_city
 
 	history={
-		owner = GER
+		owner = RHI
+		victory_points = {
+			495 5 
+		}
 		#victory_points = {
 		#	9509 1
 		#}
@@ -17,7 +20,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = GER
+		add_core_of = RHI
 
 		1939.1.1 ={
 			buildings = {
@@ -29,6 +32,6 @@ state={
 	}
 
 	provinces={
-		405 3355 6535 6622 9509 11346
+		495 3398 3524 9443 9547 11431 11533 
 	}
 }
